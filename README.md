@@ -6,7 +6,7 @@ Jogo baseado no classico jogo Freeway
 | -------------  | --- |
 | :sparkles: Daiana        | **Jogo FREEWAY**
 | :label: Tecnologias | javaScript, html, css (tecnologias utilizadas)
-| :rocket: URL         | [https://editor.p5js.org/DLadyLuck/full/RgtPLSvoI]
+| :rocket: URL         | https://editor.p5js.org/DLadyLuck/full/RgtPLSvoI
 
 ![](https://editor.p5js.org/DLadyLuck/full/RgtPLSvoI#vitrinedev)
 
