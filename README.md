@@ -7,4 +7,6 @@ Jogo baseado no classico jogo Freeway
 | :sparkles: Daiana        | **Jogo FREEWAY**
 | :label: Tecnologias | javaScript, html, css (tecnologias utilizadas)
 
-![](#vitrinedev)
+![](https://editor.p5js.org/DLadyLuck/full/RgtPLSvoI#vitrinedev)
+
+Jogo desenvolvido no editor P5.js usando linguagem JavaScript, baseado no classico jogo Freeway.
